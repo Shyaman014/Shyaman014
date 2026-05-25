@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shyaman 👨‍💻<br>I'm currently a Computer Engineering student and passionate about coding, tech, and building cool projects.<br><br>🌱 I'm learning data structures, algorithms, and system programming<br><br>💻 I love working with C, C++, and exploring Git & GitHub<br>
+I'm Shyaman <br>I'm currently a Computer Engineering student and passionate about coding, tech, and building cool projects.<br><br>🌱 I'm learning data structures, algorithms, and system programming<br><br>💻 I love working with C, C++, and exploring Git & GitHub<br>
 
 
 # 💻 Tech Stack:
