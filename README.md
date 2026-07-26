@@ -85,6 +85,7 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 
 </div>
 
+
 ---
 
 # 📊 Contribution Graph
@@ -92,3 +93,6 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 [![Shyaman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyaman014&theme=github-compact)](https://github.com/Shyaman014)
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Shyaman014/Shyaman014/output/github-contribution-grid-snake.svg)
