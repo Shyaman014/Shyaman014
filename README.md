@@ -95,4 +95,8 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 ---
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Shyaman014/Shyaman014/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Shyaman014/Shyaman014/output/github-contribution-grid-snake-dark.svg)
+
+</div>
