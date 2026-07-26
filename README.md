@@ -1,12 +1,16 @@
-<!-- ============================== -->
-<!--      PREMIUM GITHUB PROFILE    -->
-<!-- ============================== -->
+<!-- ========================================= -->
+<!--          PREMIUM GITHUB PROFILE           -->
+<!-- ========================================= -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shyaman+Kumar+Rajak;Software+Engineer;3rd+Year+B.Tech+CSE+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React" />
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=Shyaman014&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1c1c1c,100:3a3a3a&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
@@ -25,44 +29,47 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 - 🎓 3rd Year B.Tech CSE Student at **NERIST**
 - 💻 Passionate about Software Engineering & Full Stack Development
 - 🌱 Currently learning **Spring Boot, System Design & Cloud Technologies**
-- 📚 Practicing Data Structures & Algorithms using **Java**
+- 📚 Practicing **Data Structures & Algorithms using Java**
 - ☁️ Exploring **AWS** and modern backend technologies
-- 🚀 Interested in AI-powered applications and scalable systems
+- 🚀 Interested in **AI-powered applications** and scalable systems
 - ⚡ Always eager to learn and build impactful software
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+## 💻 Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,js,mysql"/>
 </p>
 
-### Frontend
+## 🎨 Frontend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
 </p>
 
-### Backend
+## ⚙️ Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
-### Database
+## 🗄️ Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Cloud & Tools
+## ☁️ Cloud & Tools
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel"/>
+
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+
 </p>
 
 ---
@@ -85,18 +92,34 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 
 </div>
 
-
 ---
 
 # 📊 Contribution Graph
 
+<div align="center">
+
 [![Shyaman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyaman014&theme=github-compact)](https://github.com/Shyaman014)
 
+</div>
+
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Shyaman014/Shyaman014/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shyaman014&theme=algolia&no-frame=true&row=2&column=4" />
+
+</div>
+
+---
