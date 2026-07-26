@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shyaman+Kumar+Rajak;Software+Engineer;3rd+Year+B.Tech+CSE+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shyaman+Kumar+Rajak;Software+Engineer;3rd+Year+B.Tech+CSE+Student;Full+Stack+Developer;Java+|+Spring+Boot+|+React"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Shyaman014&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Shyaman014&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
@@ -24,15 +24,15 @@
 
 ### 👨‍💻 Software Engineer
 
-I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering student at NERIST**, passionate about building scalable software, exploring modern technologies, and continuously improving my problem-solving skills.
+I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering student at NERIST**, passionate about building scalable software, solving real-world problems, and continuously learning modern technologies.
 
-- 🎓 3rd Year B.Tech CSE Student at **NERIST**
-- 💻 Passionate about Software Engineering & Full Stack Development
-- 🌱 Currently learning **Spring Boot, System Design & Cloud Technologies**
-- 📚 Practicing **Data Structures & Algorithms using Java**
-- ☁️ Exploring **AWS** and modern backend technologies
-- 🚀 Interested in **AI-powered applications** and scalable systems
-- ⚡ Always eager to learn and build impactful software
+- 🎓 B.Tech CSE Student at **NERIST**
+- 💻 Passionate about Software Engineering
+- 🌱 Currently learning **Spring Boot, System Design & Cloud**
+- 📚 Practicing **Data Structures & Algorithms in Java**
+- ☁️ Exploring **AWS** and Backend Development
+- 🤖 Interested in AI-powered Applications
+- 🚀 Love building impactful Full Stack projects
 
 ---
 
@@ -40,31 +40,31 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 
 ## 💻 Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=java,c,cpp,js,mysql"/>
 </p>
 
 ## 🎨 Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
 </p>
 
 ## ⚙️ Backend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
 ## 🗄️ Database
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ## ☁️ Cloud & Tools
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vercel"/>
 
@@ -98,7 +98,7 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 
 <div align="center">
 
-[![Shyaman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyaman014&theme=github-compact)](https://github.com/Shyaman014)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyaman014&theme=github-compact)](https://github.com/Shyaman014)
 
 </div>
 
@@ -114,12 +114,8 @@ I'm **Shyaman Kumar Rajak**, a **3rd Year B.Tech Computer Science & Engineering 
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shyaman014&theme=algolia&no-frame=true&row=2&column=4" />
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>
-
----
